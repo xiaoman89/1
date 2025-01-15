@@ -28,72 +28,60 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:xiaoman.lu@warwick.ac.uk'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/xiaoman89
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/xiaoman89/
   - icon: brands/instagram
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Computer Science
+    institution: University of Warwick
+    date_start: 2024-09-30
+    date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Developing Robust and Generalized DeepFakes Detection Algorithms_. Supervised by [Prof Guan Yu](https://warwick.ac.uk/fac/sci/dcs/people/yu_guan/).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Mathematics
+    institution: Northeastern UNiversity
+    date_start: 2020-09-01
+    date_end: 2024-06-30
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      GPA: 90.44/100.00
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Mathematical Modeling
+      - Numerical analysis
+      - Machine Learning
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Front-end Developer
+    company_name: Neusoft Corporation -Shenyang, China
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-07-01
+    date_end: 2022-07-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Contributed to the development and design of Neusoft's cross-border e-commerce platform
+      - Responsible for the automobile Hi Map project, including programming the front-end of the electronic map, and realizing the functions of automatic location marking and generating the optimal route, etc.
+  - position: AI+RPA Engineer
+    company_name:  Intelligence Indeed Technology Company -Hangzhou,China
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-07-30
+    date_end: 2023-08-20
+    summary: |
+      Responsibilities include:
+      - Developed a web crawler program to gather user reviews for three different mobile products
+      - Created an informative visual data analysis dashboard
+      - Integrated CRNN into character recognition
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -116,7 +104,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Traveling
         description: ''
         percent: 60
         icon: person-simple-walk
@@ -130,43 +118,36 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Honorable Mention in The 2023 Mathematical Contest in Modeling (MCM)
+    url: https://www.contest.comap.com/undergraduate/contests/mcm/contests/2023/results/
+    date: '2023-02-20'
+    awarder: The Consortium for Mathematics and its Applications (COMAP) 
+    icon: COMAP
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Responsible for modeling and writing the paper, and combining multiple linear regression prediction and entropy weighting-TOPSIS method to establish statistical indicators and build a model for predicting forest CO2 emissions.
+  - title: Honorable Mention in the 2022 Mathematical Contest in Modeling (MCM)
+    url: https://www.contest.comap.com/undergraduate/contests/mcm/contests/2022/results/
+    date: '2023-02-17'
+    awarder: The Consortium for Mathematics and its Applications (COMAP) 
+    icon: COMAP
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      - To address the issue of measuring and mitigating light pollution in diverse locations, we have developed two distinct models: the Light Pollution Level Evaluation Model and the Optimal Light Pollution Intervention Model.
+      - We established a comprehensive four-level evaluation indicator system, acquired the central standard value matrix through the K-means clustering algorithm, and the Entropy-weighted TOPSIS method. These efforts culminated in the successful completion of our research article titled Chasing Better Strategies for Light Pollution Intervention.
+  - title: First Prize in the 16th “Challenge Cup” Liaoning Province College Students Extracurricular Academic and Technological Works
+    url: https://www.tiaozhanbei.net/
+    date: '2023-05-21'
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      This project relied on a new type of digital image hiding system with strong robustness as the core product, and promoted the image hiding technology in the form of Web pages and cell phone applications, so as to encrypt the personal and corporate information, thus realizing the purpose of information security.
 ---
 
 I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
