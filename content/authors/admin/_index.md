@@ -150,4 +150,4 @@ awards:
       This project relied on a new type of digital image hiding system with strong robustness as the core product, and promoted the image hiding technology in the form of Web pages and cell phone applications, so as to encrypt the personal and corporate information, thus realizing the purpose of information security.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am currently a PhD student in Computer Science at the university of Warwick, specializing in artificial intelligence with a focus on Deepfakes detection.
