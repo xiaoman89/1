@@ -31,13 +31,13 @@ profiles:
     url: 'mailto:xiaoman.lu@warwick.ac.uk'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/Xiao_man_Lu
   - icon: brands/github
     url: https://github.com/xiaoman89
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/xiaoman89/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.co.uk/citations?hl=zh-CN&user=pEa1LdgAAAAJ
 
 education:
   - area: PhD Computer Science
