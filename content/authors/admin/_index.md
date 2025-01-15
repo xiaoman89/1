@@ -48,7 +48,7 @@ education:
       Thesis on _Developing Robust and Generalized DeepFakes Detection Algorithms_. Supervised by [Prof Guan Yu](https://warwick.ac.uk/fac/sci/dcs/people/yu_guan/).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'static/uploads/1.pdf'
   - area: BSc Mathematics
     institution: Northeastern UNiversity
     date_start: 2020-09-01
@@ -150,4 +150,4 @@ awards:
       This project relied on a new type of digital image hiding system with strong robustness as the core product, and promoted the image hiding technology in the form of Web pages and cell phone applications, so as to encrypt the personal and corporate information, thus realizing the purpose of information security.
 ---
 
-I am currently a PhD student in Computer Science at the university of Warwick, specializing in artificial intelligence with a focus on Deepfakes detection.
+I am currently a PhD student in Computer Science at the University of Warwick, and I am part of the UVLab. My research areas are artificial intelligence and computer vision, with a focus on DeepFake detection.
