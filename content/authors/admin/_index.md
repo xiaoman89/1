@@ -48,7 +48,7 @@ education:
       Thesis on _Developing Robust and Generalized DeepFakes Detection Algorithms_. Supervised by [Prof Guan Yu](https://warwick.ac.uk/fac/sci/dcs/people/yu_guan/).
     button:
       text: 'Read Thesis'
-      url: 'static/uploads/1.pdf'
+      url: 'uploads/1.pdf'
   - area: BSc Mathematics
     institution: Northeastern UNiversity
     date_start: 2020-09-01
