@@ -128,7 +128,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Honorable Mention in The 2023 Mathematical Contest in Modeling (MCM)
+  - title: Honorable Mention in the 2023 Mathematical Contest in Modeling (MCM)
     url: https://www.contest.comap.com/undergraduate/contests/mcm/contests/2023/results/
     date: '2023-02-20'
     awarder: The Consortium for Mathematics and its Applications (COMAP) 
