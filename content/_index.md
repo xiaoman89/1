@@ -13,7 +13,7 @@ design:
 sections:
   - block: biography
     content:
-      username: admin
+      username: xiaoman
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Résumé
@@ -27,22 +27,22 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: experience
     content:
-      username: admin
+      username: xiaoman
     design:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: false
+      is_education_first: true
   - block: skills
     content:
       title: Skills & Hobbies
-      username: admin
+      username: xiaoman
   - block: awards
     content:
       title: Awards
-      username: admin
+      username: xiaoman
   - block: languages
     content:
       title: Languages
-      username: admin
+      username: xiaoman
 ---
