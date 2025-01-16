@@ -144,12 +144,10 @@ awards:
       - To address the issue of measuring and mitigating light pollution in diverse locations, we have developed two distinct models: the Light Pollution Level Evaluation Model and the Optimal Light Pollution Intervention Model.
       - We established a comprehensive four-level evaluation indicator system, acquired the central standard value matrix through the K-means clustering algorithm, and the Entropy-weighted TOPSIS method. These efforts culminated in the successful completion of our research article titled Chasing Better Strategies for Light Pollution Intervention.
   - title: First Prize in the 16th “Challenge Cup” College Students Extracurricular Academic and Technological Works
+    url: uploads/2.pdf
     date: '2023-12-30'
     summary: |
       This project relied on a new type of digital image hiding system with strong robustness as the core product, and promoted the image hiding technology in the form of Web pages and cell phone applications, so as to encrypt the personal and corporate information, thus realizing the purpose of information security.
-    button:
-      text: 'Project Introduction'
-      url: uploads/2.pdf
 ---
 
 I am currently a PhD student in Computer Science at the University of Warwick, and I am part of the UVLab. My research areas are artificial intelligence and computer vision, with a focus on DeepFake detection.
